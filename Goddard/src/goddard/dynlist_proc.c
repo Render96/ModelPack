@@ -2565,7 +2565,7 @@ void d_set_parm_f(enum DParmF param, f32 val) {
         case OBJ_TYPE_GADGETS:
             switch (param) {
                 case PARM_F_RANGE_LEFT:
-                    ((struct ObjGadget *) sDynListCurObj)->unk38 = val;
+                    ((struct ObjGadget *) sDynListCurObj)->curAnim = val;
                     break;
                 case PARM_F_RANGE_RIGHT:
                     ((struct ObjGadget *) sDynListCurObj)->unk3C = val;
