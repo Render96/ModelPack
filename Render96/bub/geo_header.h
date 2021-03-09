@@ -1,0 +1,30 @@
+extern const GeoLayout bub_geo[];
+extern Vtx bub_000_offset_mesh_vtx_0[486];
+extern Gfx bub_000_offset_mesh_tri_0[];
+extern Vtx bub_000_offset_mesh_vtx_1[302];
+extern Gfx bub_000_offset_mesh_tri_1[];
+extern Vtx bub_000_offset_mesh_vtx_2[123];
+extern Gfx bub_000_offset_mesh_tri_2[];
+extern Vtx bub_000_offset_mesh_vtx_3[7];
+extern Gfx bub_000_offset_mesh_tri_3[];
+extern Vtx bub_000_offset_mesh_vtx_4[93];
+extern Gfx bub_000_offset_mesh_tri_4[];
+extern Vtx bub_000_offset_mesh_vtx_5[112];
+extern Gfx bub_000_offset_mesh_tri_5[];
+extern Vtx bub_000_offset_mesh_vtx_6[256];
+extern Gfx bub_000_offset_mesh_tri_6[];
+extern Vtx bub_000_offset_mesh_vtx_7[1111];
+extern Gfx bub_000_offset_mesh_tri_7[];
+extern Vtx bub_000_offset_001_mesh_vtx_0[211];
+extern Gfx bub_000_offset_001_mesh_tri_0[];
+extern Vtx bub_000_offset_002_mesh_vtx_0[105];
+extern Gfx bub_000_offset_002_mesh_tri_0[];
+extern Vtx bub_000_offset_003_mesh_vtx_0[104];
+extern Gfx bub_000_offset_003_mesh_tri_0[];
+
+extern Gfx bub_000_offset_mesh[];
+extern Gfx bub_000_offset_001_mesh[];
+extern Gfx bub_000_offset_002_mesh[];
+extern Gfx bub_000_offset_003_mesh[];
+extern Gfx bub_material_revert_render_settings[];
+
