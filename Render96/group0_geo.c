@@ -17,3 +17,4 @@
 #include "sparkle_animation/geo.inc.c"
 #include "mario/geo.inc.c"
 #include "luigi/geo.inc.c"
+#include "wario/geo.inc.c"
