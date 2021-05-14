@@ -1,0 +1,30 @@
+// 0x06057690
+const struct Animation *const bowser_seg6_anims_06057690[] = {
+    &bowser_seg6_anim_060445EC, //00
+    &bowser_seg6_anim_060453C8, //01
+    &bowser_seg6_anim_06045D28, //02
+    &bowser_seg6_anim_0604671C, //03
+    &bowser_seg6_anim_0604675C, //04
+    &bowser_seg6_anim_06048200, //05
+    &bowser_seg6_anim_06049880, //06
+    &bowser_seg6_anim_0604A8E4, //07
+    &bowser_seg6_anim_0604B178, //08
+    &bowser_seg6_anim_0604B8CC, //09
+    &bowser_seg6_anim_0604D184, //10
+    &bowser_seg6_anim_0604E5A0, //11
+    &bowser_seg6_anim_0604F030, //12
+    &bowser_seg6_anim_0604FF4C, //13
+    &bowser_seg6_anim_06050530, //14
+    &bowser_seg6_anim_060514E8, //15
+    &bowser_seg6_anim_06051C68, //16
+    &bowser_seg6_anim_06052680, //17
+    &bowser_seg6_anim_06054290, //18
+    &bowser_seg6_anim_06052D94, //19
+    &bowser_seg6_anim_060534F4, //20
+    &bowser_seg6_anim_06053B8C, //21
+    &bowser_seg6_anim_06054950, //22
+    &bowser_seg6_anim_06055210, //23
+    &bowser_seg6_anim_06055984, //24
+    &bowser_seg6_anim_06056774, //25
+    &bowser_seg6_anim_06057678, //26
+};

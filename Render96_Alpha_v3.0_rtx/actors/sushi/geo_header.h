@@ -1,0 +1,35 @@
+extern const GeoLayout sushi_geo[];
+extern Vtx sushi_000_offset_mesh_vtx_0[1107];
+extern Gfx sushi_000_offset_mesh_tri_0[];
+extern Vtx sushi_000_offset_mesh_vtx_1[91];
+extern Gfx sushi_000_offset_mesh_tri_1[];
+extern Vtx sushi_000_offset_mesh_vtx_2[1685];
+extern Gfx sushi_000_offset_mesh_tri_2[];
+extern Vtx sushi_000_offset_mesh_vtx_3[176];
+extern Gfx sushi_000_offset_mesh_tri_3[];
+extern Vtx sushi_000_offset_001_mesh_vtx_0[35];
+extern Gfx sushi_000_offset_001_mesh_tri_0[];
+extern Vtx sushi_000_offset_001_skinned_vtx_0[34];
+extern Gfx sushi_000_offset_001_skinned_tri_0[];
+extern Vtx sushi_000_offset_002_mesh_vtx_0[35];
+extern Gfx sushi_000_offset_002_mesh_tri_0[];
+extern Vtx sushi_000_offset_002_mesh_vtx_1[111];
+extern Gfx sushi_000_offset_002_mesh_tri_1[];
+extern Vtx sushi_000_offset_002_skinned_vtx_0[34];
+extern Gfx sushi_000_offset_002_skinned_tri_0[];
+extern Vtx sushi_000_offset_003_mesh_vtx_0[35];
+extern Gfx sushi_000_offset_003_mesh_tri_0[];
+extern Vtx sushi_000_offset_003_mesh_vtx_1[382];
+extern Gfx sushi_000_offset_003_mesh_tri_1[];
+extern Vtx sushi_000_offset_003_skinned_vtx_0[34];
+extern Gfx sushi_000_offset_003_skinned_tri_0[];
+
+extern Gfx sushi_000_offset_mesh[];
+extern Gfx sushi_000_offset_001_mesh[];
+extern Gfx sushi_000_offset_001_skinned[];
+extern Gfx sushi_000_offset_002_mesh[];
+extern Gfx sushi_000_offset_002_skinned[];
+extern Gfx sushi_000_offset_003_mesh[];
+extern Gfx sushi_000_offset_003_skinned[];
+extern Gfx sushi_material_revert_render_settings[];
+
