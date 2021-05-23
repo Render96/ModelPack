@@ -1,7 +1,7 @@
 extern const GeoLayout spindrift_geo[];
-extern Vtx spindrift_000_offset_001_mesh_vtx_0[523];
+extern Vtx spindrift_000_offset_001_mesh_vtx_0[248];
 extern Gfx spindrift_000_offset_001_mesh_tri_0[];
-extern Vtx spindrift_000_offset_001_mesh_vtx_1[60];
+extern Vtx spindrift_000_offset_001_mesh_vtx_1[305];
 extern Gfx spindrift_000_offset_001_mesh_tri_1[];
 extern Vtx spindrift_000_offset_002_mesh_vtx_0[302];
 extern Gfx spindrift_000_offset_002_mesh_tri_0[];

@@ -1,5 +1,5 @@
 extern const GeoLayout koopa_geo[];
-extern Vtx koopa_000_offset_mesh_vtx_0[187];
+extern Vtx koopa_000_offset_mesh_vtx_0[188];
 extern Gfx koopa_000_offset_mesh_tri_0[];
 extern Vtx koopa_000_offset_mesh_vtx_1[1817];
 extern Gfx koopa_000_offset_mesh_tri_1[];
@@ -27,11 +27,11 @@ extern Vtx koopa_000_offset_005_mesh_vtx_1[259];
 extern Gfx koopa_000_offset_005_mesh_tri_1[];
 extern Vtx koopa_000_offset_006_mesh_vtx_0[28];
 extern Gfx koopa_000_offset_006_mesh_tri_0[];
-extern Vtx koopa_000_offset_007_mesh_vtx_0[1405];
+extern Vtx koopa_000_offset_007_mesh_vtx_0[3058];
 extern Gfx koopa_000_offset_007_mesh_tri_0[];
 extern Vtx koopa_000_offset_008_mesh_vtx_0[31];
 extern Gfx koopa_000_offset_008_mesh_tri_0[];
-extern Vtx koopa_000_offset_009_mesh_vtx_0[1409];
+extern Vtx koopa_000_offset_009_mesh_vtx_0[3056];
 extern Gfx koopa_000_offset_009_mesh_tri_0[];
 
 extern Gfx koopa_000_offset_mesh[];

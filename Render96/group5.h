@@ -88,4 +88,6 @@ extern const GeoLayout tweester_geo[];
 
 #include "eyerok/geo_header.h"
 
+#include "klepto/geo_header.h"
+
 #endif

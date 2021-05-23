@@ -253,4 +253,12 @@ extern const s16 wooden_signpost_seg3_collision_0302DD80[];
 
 #include "tree/geo_header.h"
 
+#include "door/geo_header.h"
+
+#include "warp_pipe_boo/geo_header.h"
+
+#include "boo_key/geo_header.h"
+
+#include "luigi_cap/geo_header.h"
+
 #endif
