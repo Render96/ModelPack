@@ -11,6 +11,7 @@ The structure of of the repo:
 * models_rtx: contains the raw files of the most recent rtx version as well as goddard.
 * dynos_and_goddard: contains the most recent dynos files as well as goddard.
 * rtx_dynos_and_goddard: contains the most recent rtx dynos files as well as goddard.
+* models_archive: contains zips of previous versions of the model pack.
 
 ### How to pull
 
