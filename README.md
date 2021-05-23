@@ -1,6 +1,5 @@
 <!-- INFO ABOUT THE MODELPACK -->
 ## ModelPack
-Dynos model swap
 
 ### The model files are inside a "Render96" folder in each branch.
 
