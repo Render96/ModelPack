@@ -1,0 +1,37 @@
+extern const GeoLayout whomp_geo[];
+extern Vtx whomp_000_offset_mesh_vtx_0[4];
+extern Gfx whomp_000_offset_mesh_tri_0[];
+extern Vtx whomp_000_offset_mesh_vtx_1[16];
+extern Gfx whomp_000_offset_mesh_tri_1[];
+extern Vtx whomp_000_offset_mesh_vtx_2[3575];
+extern Gfx whomp_000_offset_mesh_tri_2[];
+extern Vtx whomp_000_offset_mesh_vtx_3[829];
+extern Gfx whomp_000_offset_mesh_tri_3[];
+extern Vtx whomp_000_offset_mesh_vtx_4[829];
+extern Gfx whomp_000_offset_mesh_tri_4[];
+extern Vtx whomp_000_offset_mesh_vtx_5[588];
+extern Gfx whomp_000_offset_mesh_tri_5[];
+extern Vtx whomp_000_offset_mesh_vtx_6[2154];
+extern Gfx whomp_000_offset_mesh_tri_6[];
+extern Vtx whomp_000_offset_mesh_vtx_7[1749];
+extern Gfx whomp_000_offset_mesh_tri_7[];
+extern Vtx whomp_000_offset_002_mesh_vtx_0[59];
+extern Gfx whomp_000_offset_002_mesh_tri_0[];
+extern Vtx whomp_000_offset_003_mesh_vtx_0[59];
+extern Gfx whomp_000_offset_003_mesh_tri_0[];
+extern Vtx whomp_000_offset_004_mesh_vtx_0[39];
+extern Gfx whomp_000_offset_004_mesh_tri_0[];
+extern Vtx whomp_000_offset_004_mesh_vtx_1[1105];
+extern Gfx whomp_000_offset_004_mesh_tri_1[];
+extern Vtx whomp_000_offset_006_mesh_vtx_0[39];
+extern Gfx whomp_000_offset_006_mesh_tri_0[];
+extern Vtx whomp_000_offset_006_mesh_vtx_1[1105];
+extern Gfx whomp_000_offset_006_mesh_tri_1[];
+
+extern Gfx whomp_000_offset_mesh[];
+extern Gfx whomp_000_offset_002_mesh[];
+extern Gfx whomp_000_offset_003_mesh[];
+extern Gfx whomp_000_offset_004_mesh[];
+extern Gfx whomp_000_offset_006_mesh[];
+extern Gfx whomp_material_revert_render_settings[];
+
